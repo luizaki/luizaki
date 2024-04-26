@@ -13,29 +13,29 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
 ---
 
 ### tech n' tools
-<img style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-<img style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-<img style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" />
-<img style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img style="margin:24px;" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+<img title="Java" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img title="Python" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img title="NumPy" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img title="Pandas" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img title="Matplotlib" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img title="Scala" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" />
+<img title="Javascript" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img title="NodeJS" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img title="Discord.js" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
+<img title="HTML" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img title="CSS" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img title="Visual Basic" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+<img title=".NET" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
+<img title="JSON" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
+<img title="MySQL" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img title="PostgreSQL" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img title="Jupyter" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+<img title="Replit" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
+<img title="VS Code" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img title="Visual Studio" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img title="Git" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img title="Photoshop" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img title="Premiere Pro" style="margin:24px;" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 
 &emsp;<br />
 

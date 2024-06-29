@@ -6,7 +6,7 @@
 Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and all it offers.
 
 - 🧑 pronouns: **they/she**
-- 📚 currently learning: **Lua | Luau**
+- 📚 currently learning: **Dart**
 - 📫 reach out to me: **[Email](mailto:francinelouise.sanchez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/francinelouisesanchez/)**
 - ⭐ other interests: **games, crochet, every other nerdy/geeky stuff you can think of**
 
@@ -26,6 +26,7 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
 <img title="CSS" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img title="Visual Basic" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
 <img title=".NET" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
+<img title="Dart" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 <img title="JSON" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
 <img title="MySQL" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img title="PostgreSQL" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />

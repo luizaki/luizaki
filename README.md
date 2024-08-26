@@ -27,6 +27,7 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
 <img title="Visual Basic" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
 <img title=".NET" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
 <img title="Dart" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+<img title="Flutter" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img title="JSON" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
 <img title="MySQL" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img title="PostgreSQL" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -34,6 +35,7 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
 <img title="Replit" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
 <img title="VS Code" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img title="Visual Studio" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img title="Android Studio" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img title="Git" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img title="Photoshop" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img title="Premiere Pro" style="margin:24px;" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />

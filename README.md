@@ -43,5 +43,5 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
 &emsp;<br />
 
 ### stat journey
-<p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=luizaki&custom_title=luizaki%27s%20stat%20journey&hide=issues,contribs&theme=gruvbox&show_icons=true&rank_icon=github&card_width=350px" />&emsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaki&layout=compact&theme=gruvbox&custom_title=most%20used%20languages&card_width=350px" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=luizaki&theme=gruvbox&hide_border=false" /><p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=luizaki&custom_title=luizaki%27s%20stat%20journey&hide=issues,contribs&theme=gruvbox&show_icons=true&rank_icon=github&include_all_commits=false&count_private=true&card_width=350px" />&emsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaki&layout=compact&theme=gruvbox&custom_title=most%20used%20languages&include_all_commits=false&count_private=true&card_width=350px" /></p></p>
 <p><img src="https://github-profile-trophy.vercel.app/?username=luizaki&theme=gruvbox&margin-w=10&title=MultipleLang,Followers,Experience,Repositories,Commit,Stars,PullRequest" /></p>

@@ -6,7 +6,7 @@
 Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and all it offers.
 
 - 🧑 pronouns: **they/she**
-- 📚 currently learning: **Dart**
+- 📚 currently learning: **DiscordJS (NodeJS)**
 - 📫 reach out to me: **[Email](mailto:francinelouise.sanchez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/francinelouisesanchez/)**
 - ⭐ other interests: **games, crochet, every other nerdy/geeky stuff you can think of**
 

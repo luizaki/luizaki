@@ -1,4 +1,4 @@
-## lui 🍂🦉
+## lui 🍂🦉 ![](https://komarev.com/ghpvc/?username=luizaki&color=yellow)
 
 `your resident comsci student pumped with copious amounts of coffee and hopefully working ideas`
 <img align="left" src="https://github.com/luizaki/luizaki/blob/main/lui_walk_240.gif" width="175px" />

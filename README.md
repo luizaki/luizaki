@@ -24,8 +24,11 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black&logo=JavaScript" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logoColor=white&logo=Node.js" />
   <img alt="discord.js" src="https://img.shields.io/badge/-discord.js-5865F2?style=flat-square&logoColor=white&logo=discord.js" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logoColor=black&logo=React" />
+  <img alt="Luau" src="https://img.shields.io/badge/-Luau-00A2FF?style=flat-square&logoColor=white&logo=Luau" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-663399?style=flat-square&logoColor=white&logo=CSS" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logoColor=white&logo=tailwindcss" />
   <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual Basic-195F97?style=flat-square" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logoColor=white&logo=.NET" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logoColor=white&logo=Dart" />
@@ -33,14 +36,18 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logoColor=white&logo=JSON" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logoColor=white&logo=MySQL" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logoColor=white&logo=PostgreSQL" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logoColor=white&logo=Supabase" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logoColor=white&logo=Jupyter" />
   <img alt="Replit" src="https://img.shields.io/badge/-Replit-F26207?style=flat-square&logoColor=white&logo=Replit" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0098FF?style=flat-square" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-AE7FE2?style=flat-square" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logoColor=white&logo=androidstudio" />
+  <img alt="Roblox Studio" src="https://img.shields.io/badge/-Roblox%20Studio-00A2FF?style=flat-square&logoColor=white&logo=robloxstudio" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logoColor=white&logo=Git" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square" />
-  <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere%20Pro-E298F2?style=flat-square" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoColor=white&logo=GitHub" />
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logoColor=white&logo=Canva" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square" />
+  <img alt="Premiere Pro" src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-E298F2?style=flat-square" />
 </p>
 
 &emsp;<br />

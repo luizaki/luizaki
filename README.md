@@ -13,32 +13,35 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
 ---
 
 ### tech n' tools
-<img title="Java" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img title="Python" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img title="NumPy" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img title="Pandas" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-<img title="Matplotlib" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-<img title="Scala" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" />
-<img title="Javascript" style="padding-right:24px;padding-bottom:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img title="NodeJS" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img title="Discord.js" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
-<img title="HTML" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img title="CSS" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img title="Visual Basic" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
-<img title=".NET" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
-<img title="Dart" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img title="Flutter" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img title="JSON" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
-<img title="MySQL" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img title="PostgreSQL" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img title="Jupyter" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img title="Replit" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
-<img title="VS Code" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img title="Visual Studio" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img title="Android Studio" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-<img title="Git" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img title="Photoshop" style="margin:24px;" align="left" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img title="Premiere Pro" style="margin:24px;" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-F89820?style=flat-square&logoColor=white&logo=OpenJDK" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white&logo=Python" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logoColor=white&logo=NumPy" />
+  <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logoColor=white&logo=pandas" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logoColor=white&logo=NumPy" />
+  <img alt="matplotlib" src="https://img.shields.io/badge/-matplotlib-14547a?style=flat-square" />
+  <img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logoColor=white&logo=Scala" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black&logo=JavaScript" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logoColor=white&logo=Node.js" />
+  <img alt="discord.js" src="https://img.shields.io/badge/-discord.js-5865F2?style=flat-square&logoColor=white&logo=discord.js" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-663399?style=flat-square&logoColor=white&logo=CSS" />
+  <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual Basic-195F97?style=flat-square" />
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logoColor=white&logo=.NET" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logoColor=white&logo=Dart" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logoColor=white&logo=Flutter" />
+  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logoColor=white&logo=JSON" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logoColor=white&logo=MySQL" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logoColor=white&logo=PostgreSQL" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logoColor=white&logo=Jupyter" />
+  <img alt="Replit" src="https://img.shields.io/badge/-Replit-F26207?style=flat-square&logoColor=white&logo=Replit" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0098FF?style=flat-square" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-AE7FE2?style=flat-square" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logoColor=white&logo=androidstudio" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logoColor=white&logo=Git" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square" />
+  <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere%20Pro-E298F2?style=flat-square" />
+</p>
 
 &emsp;<br />
 

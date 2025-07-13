@@ -8,7 +8,7 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
 - 🧑 pronouns: **they/she**
 - 📚 currently learning: **DiscordJS (NodeJS)**
 - 📫 reach out to me: **[Email](mailto:francinelouise.sanchez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/francinelouisesanchez/)**
-- ⭐ other interests: **games, crochet, every other nerdy/geeky stuff you can think of**
+- ⭐ other interests: **games, kpop, crochet, every other nerdy/geeky stuff you can think of**
 
 ---
 
@@ -45,9 +45,11 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
   <img alt="Roblox Studio" src="https://img.shields.io/badge/-Roblox%20Studio-00A2FF?style=flat-square&logoColor=white&logo=robloxstudio" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logoColor=white&logo=Git" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoColor=white&logo=GitHub" />
+  <img alt="Itch.io" src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&logoColor=white&logo=itchdotio" />
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logoColor=white&logo=Canva" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square" />
   <img alt="Premiere Pro" src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-E298F2?style=flat-square" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logoColor=white&logo=Notion" />
 </p>
 
 ### stat journey

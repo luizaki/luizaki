@@ -25,6 +25,7 @@ Hey there! Call me Lou, Lui, whatever. A youngin exploring the field of tech and
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logoColor=white&logo=Node.js" />
   <img alt="discord.js" src="https://img.shields.io/badge/-discord.js-5865F2?style=flat-square&logoColor=white&logo=discord.js" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logoColor=black&logo=React" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logoColor=white&logo=Vite" />
   <img alt="Luau" src="https://img.shields.io/badge/-Luau-00A2FF?style=flat-square&logoColor=white&logo=Luau" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-663399?style=flat-square&logoColor=white&logo=CSS" />
